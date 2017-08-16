@@ -16,7 +16,10 @@
                                 <h3 style="text-align: left; font-size: 20px; font-weight:300; color:#3C3C3B;">Descripción:</h3>
                            
                                 <p style="font-size:16px!important;">
-                                    <ul><li><b>Codigo:</b>{{sku}}</li><li><b>{{atribute_name}}:</b>{{atribute_val}}</li></ul>
+                                    <ul>
+                                        <li><b>Codigo:</b>{{sku}}</li>
+                                        {<li><b>{{atribute_name}}:</b>{{atribute_val}}</li>}
+                                    </ul>
                                 </p>
                             </td>
                         </tr>
@@ -31,7 +34,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td style="padding: 10px;"><img width="100%" align="middle" src="{{productimages}}_max_2" /></td>
+                            <td style="padding: 10px;">{<img width="100%" align="middle" src="{{productimages}}_max_2" />}</td>
                         </tr>
                     </tbody>
                 </table>
