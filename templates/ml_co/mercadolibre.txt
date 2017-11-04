@@ -15,6 +15,7 @@ Titulo: {{productname}}
 {{template_type}}
 
 --------------------
+Yaxa
 
 Tiempos de envío de 12 a 18 días hábiles a ciudades principales
 
