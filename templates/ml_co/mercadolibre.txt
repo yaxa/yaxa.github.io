@@ -1,13 +1,13 @@
-{{productname}}
-
-{{{atribute_name}}:{{atribute_val}}}
-
-{{productdetails}}
-
-
+﻿ -------------------------------------
+| Titulo: {{productname}} |
+ -------------------------------------
+ -------------------------------------
+| {{{atribute_name}}:{{atribute_val}}} |
+ -------------------------------------
+{{productdesc}}
 {{template_type}}
-
-Tiempos de envío de 12 a 18 días hábiles a ciudades principales
+ -------------------------------------
+|Tiempos de envío de 12 a 18 días hábiles a ciudades principales
 
 Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización
 automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.
@@ -19,4 +19,6 @@ Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la
 
 Para confirmar cambios de tallas, o erroresde referencias, contáctate con nosotros entre las 24 horas siguientes, después de generar la orden. En caso de no realizar este proceso, Yaxa enviará la referencia de la publicación.
 
-Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.
+Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero. |
+ -------------------------------------
+
