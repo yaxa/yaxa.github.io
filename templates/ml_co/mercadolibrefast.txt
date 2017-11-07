@@ -23,9 +23,9 @@ Titulo: {{productname}}
 
 
 
-Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización
-
-automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.
+╔════════════════════════════════════════╗
+♦ Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.♦
+╚════════════════════════════════════════╝
 
 
 Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la cual se entregan en un oficina o corresponsal asignada.
