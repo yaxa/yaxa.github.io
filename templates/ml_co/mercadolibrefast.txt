@@ -7,15 +7,16 @@
 ••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
 
------------------------
+▼▼ TITULO ▼▼
 
-Titulo: {{productname}} 
+{{productname}} 
 
 ----------------------
 
 {{{atribute_name}}:{{atribute_val}}}
 
 ---------------------
+▼▼ DESCRIPCIÓN ▼▼
 
 {{productdesc}}
 
