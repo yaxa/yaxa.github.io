@@ -15,6 +15,7 @@
 {{{atribute_name}}:{{atribute_val}}}
 ---------------------
 ««• DESCRIPCIÓN •»»
+
 {{productdesc}}
 ----------------------
 
