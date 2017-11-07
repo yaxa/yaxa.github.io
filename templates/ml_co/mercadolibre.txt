@@ -2,20 +2,23 @@
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-••••••••••••••••••••••• DE 4 A 8 DÍAS ••••••••••••••••••••••
+•••••••••••••••••••••• DE 12 A 18 DÍAS •••••••••••••••••••••
 ••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
 
 
 -----------------------
 
-Titulo: {{productname}} 
+▼▼ TITULO ▼▼
+
+{{productname}} 
 
 ----------------------
 
 {{{atribute_name}}:{{atribute_val}}}
 
 ---------------------
+▼▼ DESCRIPCIÓN ▼▼
 
 {{productdesc}}
 
@@ -23,9 +26,9 @@ Titulo: {{productname}}
 
 
 
-Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización
-
-automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.
+╔════════════════════════════════════════╗
+♦ Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.♦
+╚════════════════════════════════════════╝
 
 
 Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la cual se entregan en un oficina o corresponsal asignada.
@@ -45,6 +48,6 @@ Somos facilitadores, traemos los productos desde el exterior para ti. El proceso
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-••••••••••••••••••••••• DE 4 A 8 DÍAS ••••••••••••••••••••••
+•••••••••••••••••••••• DE 12 A 18 DÍAS •••••••••••••••••••••
 ••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
