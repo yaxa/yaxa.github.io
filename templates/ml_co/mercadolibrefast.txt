@@ -1,5 +1,8 @@
 {{template_type}}
 
+Tiempos de envío de 4 a 8 días hábiles a ciudades principales
+
+
 -----------------------
 
 Titulo: {{productname}} 
@@ -14,8 +17,6 @@ Titulo: {{productname}}
 
 ------------------
 
-
-Tiempos de envío de 4 a 8 días hábiles a ciudades principales
 
 
 Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización
