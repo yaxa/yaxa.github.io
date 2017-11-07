@@ -7,16 +7,15 @@
 •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
 
 
-««• TITULO •»»
 ----------------------
+««• TITULO •»»
 {{productname}} 
 ----------------------
 {{{atribute_name}}:{{atribute_val}}}
 ---------------------
 ««• DESCRIPCIÓN •»»
-----------------------
 {{productdesc}}
-------------------
+----------------------
 
 
 Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la cual se entregan en un oficina o corresponsal asignada.
