@@ -1,7 +1,7 @@
 {{template_type}}
 
 (____)----------------------------(____)
- |/|•••••••••••••••Tiempos de envío de|\|
+ |/|•••••••••••Tiempos de envío de|\|
  |/|12 a 18 días|/| 
  |/|hábiles a ciudades principales|\|
 (_____)---------------------------(_____) 
