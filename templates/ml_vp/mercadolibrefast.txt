@@ -1,8 +1,8 @@
-{{productname}}
+﻿{{productname}}
 
 {{{atribute_name}}:{{atribute_val}}}
 
-{{productdetails}}
+{{productdesc}}
 
 
 {{template_type}}
