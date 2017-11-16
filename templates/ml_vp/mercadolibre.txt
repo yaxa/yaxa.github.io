@@ -12,6 +12,11 @@
 
 {{productname}}
 
+••••••••••••••••••••••••••••••
+¦ IMPORTANTE «««««««« ¦
+••••••••••••••••••••••••••••••
+
+Entregamos tu compra de 6 a 15 días hábiles a ciudades principales
 
 DESCRIPCIÓN:
 
@@ -20,13 +25,6 @@ DESCRIPCIÓN:
 ESPECIFICACIONES:
 
 {{{atribute_name}}:{{atribute_val}}}
-
-
-••••••••••••••••••••••••••••••
-¦ IMPORTANTE «««««««« ¦
-••••••••••••••••••••••••••••••
-
-Entregamos tu compra de 6 a 15 días hábiles a ciudades principales
 
 
 _+88______________El envío es GRATIS a todo el país
