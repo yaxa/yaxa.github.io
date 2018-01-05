@@ -1,5 +1,7 @@
 {{template_type}}
 
+Una vez realices la compra, no olvides confirmarnos tu dirección de envío, 
+todos nuestros productos son entregados a la puerta de tu casa. 
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
