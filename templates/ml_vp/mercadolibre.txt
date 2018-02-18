@@ -1,4 +1,4 @@
-﻿••••Somos tu solución exclusiva••••••
+•••••Somos tu solución exclusiva••••••
 •para conseguir lo que más quieres•
 ••••••••de USA y del exterior•••••••••••
 
@@ -16,7 +16,12 @@
 ¦ IMPORTANTE «««««««« ¦
 ••••••••••••••••••••••••••••••
 
-Entregamos tu compra de 6 a 15 días hábiles a ciudades principales
+Si tu pedido requiere alguna instrucción adicional
+como talla y/o color, por favor házlo saber dentro
+de las 24 horas siguientes a la realización de tu
+compra, para asegurar que te llegue correctamente.
+
+Entregamos tu compra de 15 a 30 días hábiles a ciudades principales
 
 DESCRIPCIÓN:
 
@@ -25,7 +30,6 @@ DESCRIPCIÓN:
 ESPECIFICACIONES:
 
 {{{atribute_name}}:{{atribute_val}}}
-
 
 _+88______________El envío es GRATIS a todo el país
 _++880___________(excepto San Andrés y Providencia)
@@ -56,6 +60,10 @@ traducciones automáticas temporales
 te invitamos a que nos preguntes
 todo lo que necesitas saber del
 producto antes de comprarlo
+
+El "Stock" representa los productos disponibles en nuestra
+oficina Miami, por esta razón debes contar con el tiempo establecido
+de importación.
 
 
 ¡Estamos dispuestos a brindarte un excelente servicio!
