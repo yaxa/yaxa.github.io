@@ -1,0 +1,179 @@
+body {
+    margin: o auto;
+    width: 97%
+}
+
+.row {
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.menu-header {
+    padding: 8px;
+    margin-bottom: 0;
+
+}
+
+.menu-title {
+    font: 18px/1;
+    font-weight: 700;
+    color: #777;
+    text-decoration: none;
+}
+
+.menu-title:hover {
+    font-size: 1em;
+    font-weight: 700;
+    color: #ff7800;
+    text-decoration: none;
+}
+
+.menu-left {
+    background: #f4f4f4;
+    padding: 8px;
+    border: 1px solid #e4e2e2;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.accordion-header {
+    background: #fde9d7;
+    padding: 8px;
+    border: 1px solid #ffdab9;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.sm-accordion .accordion-header {
+    margin-bottom: 0;
+    border-bottom-color: transparent;
+}
+
+.sm-accordion .panel:last-child .accordion-header {
+    border-bottom-color: #e4e2e2;
+}
+
+.accordion-title {
+    font: 18px/1;
+    font-weight: 700;
+    color: #777;
+}
+
+.accordion-title > span {
+    margin: 0 5px;
+    text-transform: uppercase;
+}
+
+.accordion-btn {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-color: #;
+    background-image: url('../images/sprites/sprite.png');
+    background-position: -146px -290px;
+    background-repeat: no-repeat;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px 3px 0 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.4);
+    box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.4);
+    -webkit-transition: background-color 0.3s;
+    -moz-transition: background-color 0.3s;
+    -o-transition: background-color 0.3s;
+    -ms-transition: background-color 0.3s;
+    transition: background-color 0.3s;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.accordion-btn.opened {
+    border-radius: 0 0 3px 3px !important;
+    background-position: -118px -290px;
+}
+
+.sm-accordion .accordion-btn {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+}
+
+.accordion-btn:hover,
+.accordion-btn.active {
+    background-color: #ff7800;
+    border-color: #e86f03;
+    background-position: -146px -318px;
+}
+
+.accordion-btn.opened:hover,
+.accordion-btn.opened.active {
+    background-position: -118px -318px;
+}
+
+.accordion-header .accordion-btn {
+    position: absolute;
+    right: 5px;
+    top: 55%;
+    margin-top: -15px;
+    z-index: 100;
+}
+
+.sm-accordion .accordion-btn {
+    width: 25px;
+    height: 25px;
+}
+
+.sm-accordion .accordion-header .accordion-btn {
+    margin-top: -12.5px;
+}
+
+.sm-accordion .accordion-btn {
+    background-position: -197px -290px;
+}
+
+.sm-accordion .accordion-btn.opened {
+    background-position: -174px -290px;
+}
+
+.sm-accordion .accordion-btn:hover,
+.sm-accordion .accordion-btn.active {
+    background-position: -197px -313px;
+}
+
+.sm-accordion .accordion-btn.opened:hover,
+.sm-accordion .accordion-btn.opened.active {
+    background-position: -174px -313px;
+}
+
+.sidebar .widget .sm-accordion .panel + .panel {
+    margin-top: 0;
+}
+
+.custom-accordion .panel {
+    margin-bottom: 0;
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.custom-accordion .panel-body {
+    padding: -20px 0px 0px;
+}
+
+.sm-accordion.custom-accordion .panel-body {
+    padding: 20px 20px 40px !important;
+    background: #fcfcfc;
+    border: 1px solid #e4e2e2;
+    border-bottom-color: transparent;
+}
+
+.sm-accordion.custom-accordion .panel:last-child .panel-body {
+    border-bottom-color: #e4e2e2;
+    border-top-color: transparent;
+}
