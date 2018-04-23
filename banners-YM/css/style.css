@@ -67,29 +67,7 @@ ul {
     text-transform: uppercase;
 }
 
-.accordion-btn {
-    display: inline-block;
-    width: 25px;
-    height: 25px;
-    background-color: #;
-    background-image: url('../images/sprites/sprite.png');
-    background-position: -146px -290px;
-    background-repeat: no-repeat;
-    border: 1px solid #dcdcdc;
-    border-radius: 3px 3px 0 0;
-    -webkit-box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.4);
-    box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.4);
-    -webkit-transition: background-color 0.3s;
-    -moz-transition: background-color 0.3s;
-    -o-transition: background-color 0.3s;
-    -ms-transition: background-color 0.3s;
-    transition: background-color 0.3s;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    cursor: pointer;
-}
+
 
 .accordion-btn.opened {
     border-radius: 0 0 3px 3px !important;
@@ -176,4 +154,8 @@ ul {
 .sm-accordion.custom-accordion .panel:last-child .panel-body {
     border-bottom-color: #e4e2e2;
     border-top-color: transparent;
+}
+a:hover, a:focus {
+    color: #ff7800;
+    text-decoration: none;
 }
