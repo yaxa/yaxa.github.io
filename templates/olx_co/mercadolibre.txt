@@ -1,20 +1,17 @@
-﻿{{template_type}}
+{{template_type}}
 
 ««•IMPORTANTE LEER•»»
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE 12 A 18 DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
-•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
+•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
+••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-========================================
-En Yaxa queremos entregarte siempre la mejor atencion, asi que recuerda nuestro horario de atencion es de Lunes a Viernes de 7am a 7pm y los sabados de 7am a 1pm :)
-========================================
 
 ----------------------
 ««• TITULO •»»
-{{productname}} 
+{{productname}}
 ----------------------
 {{{atribute_name}}:{{atribute_val}}}
 ---------------------
@@ -53,8 +50,6 @@ En caso de que ya no desee el producto recibido, puede realizar la devolución d
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE 12 A 18 DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
-•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
-
-Codigo_articulo = {{sku}}
+•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
+••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••

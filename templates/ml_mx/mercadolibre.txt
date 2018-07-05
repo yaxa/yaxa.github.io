@@ -1,18 +1,17 @@
 {{template_type}}
 
-Una vez realices la compra, no olvides confirmarnos tu dirección de envío, 
-todos nuestros productos son entregados a la puerta de tu casa. 
+««•IMPORTANTE LEER•»»
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE 12 A 18 DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
-•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
+•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
+••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
 
 ----------------------
 ««• TITULO •»»
-{{productname}} 
+{{productname}}
 ----------------------
 {{{atribute_name}}:{{atribute_val}}}
 ---------------------
@@ -36,6 +35,10 @@ Para confirmar cambios de tallas, o erroresde referencias, contáctate con nosot
 •Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.•
 «=========================================================»
 
+«=========================================================»
+•Los repuestos electrónicos para vehículos no cuentan con Garantía del proveedor. Ante lo cual Yaxa no se hace responsable.•
+«=========================================================»
+
 ¿TIENEN ALGUNA GARANTÍA?
 Nuestros proveedores nos ofrecen una garantía de 30 días la cual extendemos a nuestros clientes, esta cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
 
@@ -47,6 +50,6 @@ En caso de que ya no desee el producto recibido, puede realizar la devolución d
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE 12 A 18 DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES ••••••••• 
-•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• 
+•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
+••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
