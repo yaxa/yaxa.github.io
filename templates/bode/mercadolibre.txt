@@ -1,55 +1,56 @@
 {{template_type}}
 
-««•IMPORTANTE LEER•»»
+Â«Â«â€¢IMPORTANTE LEERâ€¢Â»Â»
 
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ TIEMPOS DE ENVÃO â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ DE {{days}} DÃAS â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ HÃBILES A CIUDADES PRINCIPALES â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
 
 
 ----------------------
-««• TITULO •»»
+Â«Â«â€¢ TITULO â€¢Â»Â»
 {{productname}}
 ----------------------
 {{{atribute_name}}:{{atribute_val}}}
 ---------------------
-««• DESCRIPCIÓN •»»
+Â«Â«â€¢ DESCRIPCIÃ“N â€¢Â»Â»
 
 {{productdesc}}
 ----------------------
 
 
-Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la cual se entregan en un oficina o corresponsal asignada.
+Algunos municipios no tienen cobertura por nuestro proveedor logÃ­stico, ante la cual se entregan en un oficina o corresponsal asignada.
 
 
 * Productos, stock y tiempos de entrega sujetos a cambios
-* Envío Internacional
+* EnvÃ­o Internacional
 
 
-Para confirmar cambios de tallas, o erroresde referencias, contáctate con nosotros entre las 24 horas siguientes, después de generar la orden. En caso de no realizar este proceso, Yaxa enviará la referencia de la publicación.
+Para confirmar cambios de tallas, o erroresde referencias, contÃ¡ctate con nosotros entre las 24 horas siguientes, despuÃ©s de generar la orden. En caso de no realizar este proceso, Yaxa enviarÃ¡ la referencia de la publicaciÃ³n.
 
 
-«=========================================================»
-•Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.•
-«=========================================================»
+Â«=========================================================Â»
+â€¢Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualizaciÃ³n automÃ¡tica realizada diariamente. Ante lo cual realizamos la devoluciÃ³n de dinero.â€¢
+Â«=========================================================Â»
 
-«=========================================================»
-•Los repuestos electrónicos para vehículos no cuentan con Garantía del proveedor. Ante lo cual Yaxa no se hace responsable.•
-«=========================================================»
+Â«=========================================================Â»
+â€¢Los repuestos electrÃ³nicos para vehÃ­culos no cuentan con GarantÃ­a del proveedor. Ante lo cual Yaxa no se hace responsable.â€¢
+Â«=========================================================Â»
 
-¿TIENEN ALGUNA GARANTÍA?
-Nuestros proveedores nos ofrecen una garantía de 30 días la cual extendemos a nuestros clientes, esta cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
+Â¿TIENEN ALGUNA GARANTÃA?
+Nuestros proveedores nos ofrecen una garantÃ­a de 30 dÃ­as la cual extendemos a nuestros clientes, esta cubre daÃ±os por defectos del material o errores en la fabricaciÃ³n. NO cubre mala manipulaciÃ³n por parte del usuario.
 
-¿QUÉ PUEDO HACER EN CASO DE RETRACTO?
-En caso de que ya no desee el producto recibido, puede realizar la devolución del mismo en un periodo no mayor a 5 días, a partir de su entrega. Para ello, deberá pagar el costo del retorno hacia EE.UU. Este varía de acuerdo al tamaño y peso del producto.
+Â¿QUÃ‰ PUEDO HACER EN CASO DE RETRACTO?
+En caso de que ya no desee el producto recibido, puede realizar la devoluciÃ³n del mismo en un periodo no mayor a 5 dÃ­as, a partir de su entrega. Para ello, deberÃ¡ pagar el costo del retorno hacia EE.UU. Este varÃ­a de acuerdo al tamaÃ±o y peso del producto.
 
 ------------------
 {{template_type}}
 
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ TIEMPOS DE ENVÃO â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ DE {{days}} DÃAS â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ HÃBILES A CIUDADES PRINCIPALES â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+ 
