@@ -1,6 +1,6 @@
 {{template_type}}
 
-««•IMPORTANTE LEER•»»
+««•IMPORTANTE: LEER ANTES DE REALIZAR LA COMPRA•»»
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
@@ -8,6 +8,25 @@
 ••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
+Al realizar la compra cuentas con 24 horas después de generar la orden para comunicarte con nosotros y confirmar tu pedido (talla, color, referencia), de lo contrario Yaxa enviará la referencia de la publicación.
+
+
+* Productos, stock y tiempos de entrega sujetos a cambios
+* Envío Internacional
+
+«=========================================================»
+•Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.•
+«=========================================================»
+
+«=========================================================»
+•Los repuestos electrónicos para vehículos no cuentan con Garantía del proveedor. Ante lo cual Yaxa no se hace responsable.•
+«=========================================================»
+
+¿TIENEN ALGUNA GARANTÍA?
+Nuestros proveedores nos ofrecen una garantía de 30 días, esta cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
+
+¿QUÉ PUEDO HACER EN CASO DE RETRACTO?
+En caso de que ya no desees el producto recibido, puedes realizar la devolución del mismo en un periodo no mayor a 5 días, a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU. Este varía de acuerdo al tamaño y peso del producto.
 
 ----------------------
 ««• TITULO •»»
@@ -20,32 +39,6 @@
 {{productdesc}}
 ----------------------
 
-
-Algunos municipios no tienen cobertura por nuestro proveedor logístico, ante la cual se entregan en un oficina o corresponsal asignada.
-
-
-* Productos, stock y tiempos de entrega sujetos a cambios
-* Envío Internacional
-
-
-Para confirmar cambios de tallas, o erroresde referencias, contáctate con nosotros entre las 24 horas siguientes, después de generar la orden. En caso de no realizar este proceso, Yaxa enviará la referencia de la publicación.
-
-
-«=========================================================»
-•Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.•
-«=========================================================»
-
-«=========================================================»
-•Los repuestos electrónicos para vehículos no cuentan con Garantía del proveedor. Ante lo cual Yaxa no se hace responsable.•
-«=========================================================»
-
-¿TIENEN ALGUNA GARANTÍA?
-Nuestros proveedores nos ofrecen una garantía de 30 días la cual extendemos a nuestros clientes, esta cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
-
-¿QUÉ PUEDO HACER EN CASO DE RETRACTO?
-En caso de que ya no desee el producto recibido, puede realizar la devolución del mismo en un periodo no mayor a 5 días, a partir de su entrega. Para ello, deberá pagar el costo del retorno hacia EE.UU. Este varía de acuerdo al tamaño y peso del producto.
-
-------------------
 {{template_type}}
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
