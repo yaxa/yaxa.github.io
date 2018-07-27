@@ -3,9 +3,9 @@
 ««•IMPORTANTE: LEER ANTES DE REALIZAR LA COMPRA•»»
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+•••••••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••••••
+••••••••••••••• DE 2 A 4 DÍAS HÁBILES EN BOGOTÁ ••••••••••••••••
+••••••••••••••• 4 A 6 DÍAS HÁBILES RESTO DEL PAÍS ••••••••••••••
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
 Este producto cuenta con stock único, al realizar la compra por favor comunícate con nosotros y confirma tu pedido.
@@ -37,7 +37,7 @@ Nuestros proveedores nos ofrecen una garantía de 30 días, esta cubre daños po
 {{template_type}}
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+•••••••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••••••
+••••••••••••••• DE 2 A 4 DÍAS HÁBILES EN BOGOTÁ ••••••••••••••••
+••••••••••••••• 4 A 6 DÍAS HÁBILES RESTO DEL PAÍS ••••••••••••••
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
