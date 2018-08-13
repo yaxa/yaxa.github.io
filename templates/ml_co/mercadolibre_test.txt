@@ -1,0 +1,61 @@
+{{template_type}}
+
+««•IMPORTANTE: LEER ANTES DE REALIZAR LA COMPRA•»»
+
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
+•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
+••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
+Encuentra todo lo que buscas en nuestra Tienda Oficial, Accediendo a:
+https://tienda.mercadolibre.com.co/yaxa
+
+Al realizar la compra cuentas con 24 horas después de generar la orden para comunicarte con nosotros y confirmar tu pedido (talla, color, referencia, esto puede generar cambios en el precio del producto), de lo contrario Yaxa enviará la referencia de la publicación
+
+* Productos, stock y tiempos de entrega sujetos a cambios
+* Envío Internacional
+
+•Somos facilitadores, traemos los productos desde el exterior para ti.
+
+•Los repuestos electrónicos para vehículos no cuentan con Garantía del proveedor. Ante lo cual Yaxa no se hace responsable.•
+
+
+¿TIENEN ALGUNA GARANTÍA?
+Nuestros proveedores nos ofrecen una garantía de 30 días, esta cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
+
+*No nos hacemos responsables de los costos de envío en garantías.
+
+*No aplica garantía en daños causados por la empresa transportadora, esta empresa es quien deberá encargarse de responder por el valor del artículo que ha sido afectado.
+
+¿QUÉ PUEDO HACER EN CASO DE RETRACTO?
+En caso de que ya no desees el producto recibido, puedes realizar la devolución del mismo en un periodo no mayor a 5 días, a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU. Este varía de acuerdo al tamaño y peso del producto.
+
+----------------------
+««• TITULO •»»
+{{productname}}
+----------------------
+««• TITULO EN INGLES •»»
+{{english_productname}}
+----------------------
+
+---------------------
+««• DESCRIPCIÓN •»»
+
+{{{atribute_name}}:{{atribute_val}}}
+
+----------------------
+
+Encuentra todo lo que buscas en nuestra Tienda Oficial, Accediendo a:
+https://tienda.mercadolibre.com.co/yaxa
+
+----------------------
+
+{{template_type}}
+
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
+•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
+••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
+••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+
