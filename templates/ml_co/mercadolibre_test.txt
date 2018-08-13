@@ -35,7 +35,7 @@ En caso de que ya no desees el producto recibido, puedes realizar la devolución
 ««• TITULO •»»
 {{productname}}
 ----------------------
-««• TITULO EN INGLES •»»
+««• TITULO ORIGINAL •»»
 {{english_productname}}
 ----------------------
 
