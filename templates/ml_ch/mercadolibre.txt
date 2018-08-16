@@ -1,6 +1,6 @@
 {{template_type}}
 
-««•IMPORTANTE: LEER ANTES DE REALIZAR LA COMPRA•»»
+««IMPORTANTE LEER ANTES DE REALIZAR LA COMPRA»»
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
@@ -8,42 +8,48 @@
 ••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-Al realizar la compra cuentas con 24 horas después de generar la orden para comunicarte con nosotros y confirmar tu pedido (talla, color, referencia), de lo contrario Yaxa enviará la referencia de la publicación.
+Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
+{{url_store}}
 
+* Productos importados; stock y tiempos de entrega sujetos a cambios.
+* Envío Internacional.
+* Somos tú intermediario con los proveedores internacionales.
+----------------------------------------------------------------------------------------
 
-* Productos, stock y tiempos de entrega sujetos a cambios
-* Envío Internacional
+INDICACIONES GENERALES 
 
-«=========================================================»
-•Somos facilitadores, traemos los productos desde el exterior para ti. El proceso se realiza con proveedores internacionales. Por ende, pueden existir variaciones de stock y/o precio, como resultado de la actualización automática realizada diariamente. Ante lo cual realizamos la devolución de dinero.•
-«=========================================================»
+Al realizar la compra cuentas con 24 horas para confirmar: talla, color y/o referencia, ya que esto genera cambios en el precio del producto, de lo contrario, Yaxa enviará la referencia de la publicación.
 
-«=========================================================»
-•Los repuestos electrónicos para vehículos no cuentan con Garantía del proveedor. Ante lo cual Yaxa no se hace responsable.•
-«=========================================================»
+GARANTÍA
 
-¿TIENEN ALGUNA GARANTÍA?
-Nuestros proveedores nos ofrecen una garantía de 30 días, esta cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
+Nuestros proveedores nos ofrecen una garantía de 30 días que cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
 
-*No nos hacemos responsables de los costos de envío en garantías.
+* Los repuestos electrónicos para vehículos, ropa y/o prendas íntimas no cuentan con Garantía del proveedor. 
 
-*No aplica garantía en daños causados por la empresa transportadora, esta empresa es quien deberá encargarse de responder por el valor del artículo que ha sido afectado.
+* La empresa transportadora es la encargada de cubrir el valor por daños causados en el envío del artículo.
 
-¿QUÉ PUEDO HACER EN CASO DE RETRACTO?
-En caso de que ya no desees el producto recibido, puedes realizar la devolución del mismo en un periodo no mayor a 5 días, a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU. Este varía de acuerdo al tamaño y peso del producto.
+RETRACTO
 
-----------------------
-««• TITULO •»»
+En caso que ya no desees el producto recibido, puedes realizar la devolución en un periodo no mayor a 5 días a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU o China dependiendo el origen del proveedor (éste costo de envió varía de acuerdo al tamaño y peso del producto).
+
+----------------------------------------------------------------------------------------
+««• TÍTULO •»»
 {{productname}}
-----------------------
-{{{atribute_name}}:{{atribute_val}}}
----------------------
+----------------------------------------------------------------------------------------
+««• TITULO ORIGINAL •»»
+{{english_productname}}
+----------------------------------------------------------------------------------------
 ««• DESCRIPCIÓN •»»
 
-{{productdesc}}
-----------------------
+{{{atribute_name}}:{{atribute_val}}}
 
-{{template_type}}
+{{productdesc}}
+----------------------------------------------------------------------------------------
+
+Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
+{{url_store}}
+
+----------------------------------------------------------------------------------------
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 •••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
