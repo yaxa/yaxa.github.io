@@ -1,0 +1,55 @@
+TIEMPOS DE ENTREGA 
+DE {{days}} DÍAS HÁBILES 
+
+
+✅ Descripción del Producto
+▔▔▔▔▔▔▔▔▔▔▔▔▔
+
+{{{atribute_name}}:{{atribute_val}}}
+
+{{productdesc}}
+
+✅ Ficha Técnica
+▔▔▔▔▔▔▔▔▔▔▔▔▔
+
+• Titulo Original => {{english_productname}}
+
+{{{atribute_name}}:{{atribute_val}}}
+
+✈ ESTE ARTICULO ES IMPORTADO DESDE USA 🇺🇸
+
+✅ MÉTODOS DE ENVÍO
+▔▔▔▔▔▔▔▔▔▔▔▔▔
+Recuerda que los métodos de envío cambian según la categoría de la publicación, los envíos gratis y a cobro varían según los siguientes parámetros:
+
+❶ Si esta publicación está marcada con “Envío Gratis” este se enviará totalmente gratis en compras superiores a $70.000 según el convenio de Mercado Envíos
+
+❷ Si esta publicación está marcada como “Acordar con el Vendedor”, el costo del envío no esta incluido, así que este valor se cobrara a Contra Entrega, (Los costos pueden variar según la ciudad, el peso y volumen del producto).
+
+❸ Al elegir el “Retiro en Domicilio” no acelera el proceso de entrega, ya que igual el producto debe ser importado desde los Estados Unidos.
+
+✋ RETRACTO ❗❗❗
+▔▔▔▔▔▔▔▔▔▔▔▔▔
+* En caso de Retracto, es decir que ya no desee el producto que compro, puede realizar la devolución en un tiempo no mayor a 5 días después de entregado, Para esto el cliente deberá pagar el costo de retorno del producto a Estados Unidos, este varia según el peso y el tamaño del articulo comprado, el producto debe ser devuelto en el mismo estado en el que se entrego, caja y empaque original y sin ningún signo de uso, de no ser así NO SERA ACEPTADO EL RETRACTO.
+
+✅ GARANTÍA 
+▔▔▔▔▔▔▔▔▔▔▔▔▔
+* Nuestros proveedores nos brindan 30 días de garantía directa, la cual extendemos y respetamos con nuestros clientes, esta garantía solamente cubre daños y defectos de fabrica, no aplica garantía para productos con defectos POR MALA MANIPULACION.
+
+* No nos hacemos responsables de los costos de envío en garantías.
+
+* NO APLICA GARANTÍA EN DAÑOS CAUSADOS POR LA EMPRESA TRANSPORTADORA, ESTA EMPRESA ES QUIEN DEBERA ENCARGARSE DE RESPONDER POR EL VALOR DEL ARTICULO QUE HA SIDO AFECTADO.
+
+
+✅ INFORMACIÓN IMPORTANTE
+▔▔▔▔▔▔▔▔▔▔▔▔▔
+
+ℹ️Recuerda que antes de comprar, puedes hacer uso de la herramienta de preguntas, en donde un asesor te liberara todas tus dudas y así puedas estar totalmente confiado de lo que estas comprando.
+
+ℹ️Es importante recordar que al ser un producto importado y al ser distribuido a varios países en Latinoamérica, la DISPONIBILIDAD Y PRECIO del producto puede variar DIARIAMENTE, al igual que las tallas y colores están sujetas a la disponibilidad, en algunos casos puede que el valor del producto por cuestiones de tamaño, color o proveedor pueda cambiar ya que diariamente se actualizan de forma AUTOMÁTICA los precios con los de nuestros proveedores.
+
+ℹ️Por favor indícanos tu talla, color o Referencia por medio de las preguntas para confirmarte la Disponibilidad de la misma antes de que realices la compra. También una vez comprado el producto puedes confirmar esta información por medio de los mensajes de la plataforma. Recuerda que el precio publicado pertenece a la talla y color descritos en la ficha técnica. Otras tallas y colores pueden llegar a variar en su precio.
+
+
+TIEMPOS DE ENTREGA 
+DE {{days}} DÍAS HÁBILES
