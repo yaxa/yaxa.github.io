@@ -12,7 +12,7 @@
 * Envío Internacional.
 * Somos tú intermediario con los proveedores internacionales.
 
-🛒 Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
+Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
 {{url_store}}
 
 ----------------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ En caso que ya no desees el producto recibido, puedes realizar la devolución en
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
 
-🛒Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
+Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
 {{url_store}}
 
 ---------------------------------------------------------------------------------------
