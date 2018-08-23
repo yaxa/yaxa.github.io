@@ -16,13 +16,13 @@ Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
 {{url_store}}
 
 ----------------------------------------------------------------------------------------
-««• TÍTULO •»»
+• TÍTULO •
 {{productname}}
 
-««• TITULO ORIGINAL •»»
+• TITULO ORIGINAL •
 {{english_productname}}
 
-««• DESCRIPCIÓN •»»
+• DESCRIPCIÓN •
 {{productdesc}}
 
 {{{atribute_name}}:{{atribute_val}}}
