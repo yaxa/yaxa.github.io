@@ -17,7 +17,7 @@ Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
 
 ----------------------------------------------------------------------------------------
 ««• TÍTULO •»»
-▶️ {{productname}}◀️
+{{productname}}
 
 ««• TITULO ORIGINAL •»»
 {{english_productname}}
