@@ -2,25 +2,25 @@
 
 IMPORTANTE LEER ANTES DE REALIZAR LA COMPRA
 
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{8 a 15}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ TIEMPOS DE ENVÃO â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ DE {{8 a 15}} DÃAS â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ HÃBILES A CIUDADES PRINCIPALES â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
 
 * Productos importados; stock y tiempos de entrega sujetos a cambios.
-* Envío Internacional.
-* Somos tú intermediario con los proveedores internacionales.
+* EnvÃ­o Internacional.
+* Somos tÃº intermediario con los proveedores internacionales.
 
 
 ----------------------------------------------------------------------------------------
-• TÍTULO •
+â€¢ TÃTULO â€¢
 {{productname}}
 
-• TITULO ORIGINAL •
+â€¢ TITULO ORIGINAL â€¢
 {{english_productname}}
 
-• DESCRIPCIÓN •
+â€¢ DESCRIPCIÃ“N â€¢
 {{productdesc}}
 
 {{{atribute_name}}:{{atribute_val}}}
@@ -28,27 +28,22 @@ IMPORTANTE LEER ANTES DE REALIZAR LA COMPRA
 
 >>> INDICACIONES GENERALES <<<
 
-Al realizar la compra cuentas con 24 horas para confirmar: talla, color y/o referencia, ya que esto genera cambios en el precio del producto, de lo contrario, Yaxa enviará la referencia de la publicación.
+Al realizar la compra cuentas con 24 horas para confirmar: talla, color y/o referencia, ya que esto genera cambios en el precio del producto, de lo contrario, Yaxa enviarÃ¡ la referencia de la publicaciÃ³n.
 
-GARANTÍA
+GARANTÃA
 
-Nuestros proveedores nos ofrecen una garantía de 30 días que cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
+Nuestros proveedores nos ofrecen una garantÃ­a de 30 dÃ­as que cubre daÃ±os por defectos del material o errores en la fabricaciÃ³n. NO cubre mala manipulaciÃ³n por parte del usuario.
 
-* Los repuestos electrónicos para vehículos, ropa y/o prendas íntimas no cuentan con Garantía del proveedor.
+* Los repuestos electrÃ³nicos para vehÃ­culos, ropa y/o prendas Ã­ntimas no cuentan con GarantÃ­a del proveedor.
 
-* La empresa transportadora es la encargada de cubrir el valor por daños causados en el envío del artículo.
+* La empresa transportadora es la encargada de cubrir el valor por daÃ±os causados en el envÃ­o del artÃ­culo.
 
 RETRACTO
 
-En caso que ya no desees el producto recibido, puedes realizar la devolución en un periodo no mayor a 5 días a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU o China dependiendo el origen del proveedor (éste costo de envió varía de acuerdo al tamaño y peso del producto).
+En caso que ya no desees el producto recibido, puedes realizar la devoluciÃ³n en un periodo no mayor a 5 dÃ­as a partir de su entrega. Para ello, deberÃ¡s pagar el costo del retorno desde tu casa hacia EE.UU o China dependiendo el origen del proveedor (Ã©ste costo de enviÃ³ varÃ­a de acuerdo al tamaÃ±o y peso del producto).
 
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{8 a 15}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-
-
-
-
----------------------------------------------------------------------------------------
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ TIEMPOS DE ENVÃO â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ DE {{8 a 15}} DÃAS â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢ HÃBILES A CIUDADES PRINCIPALES â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
+â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
