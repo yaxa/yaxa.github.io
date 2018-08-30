@@ -1,0 +1,37 @@
+Vivo Shop
+
+Mira todo lo que traemos para ti:   https://eshops.mercadolibre.com.co/VIVO+SHOP
+
+POR FAVOR LEER ANTES DE COMPRAR
+
+NUESTROS TIEMPOS DE ENVIO VAN DESDE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES
+
+Productos importados; stock y tiempos de entrega sujetos a cambios.
+Envío Internacional.
+Somos intermediarios entre tú y proveedores internacionales
+
+TÍTULO
+{{productname}}
+
+DESCRIPCIÓN
+{{productdesc}}
+
+INFORMACIÓN IMPORTANTE
+
+Luego de comprar cuentas con 24 horas para confirmar: talla, color y/o referencia, ya que esto puede generar cambios en el precio del producto, si no confirmas Vivo Shop enviará la referencia de la publicación.
+GARANTÍA
+
+Proveedores internacionales ofrecen una garantía de 30 días que cubre daños por defectos del material o errores en la fabricación.
+Repuestos electrónicos para vehículos, ropa y/o prendas íntimas no cuentan con Garantía del proveedor.
+La empresa transportadora es la encargada de cubrir costos por daños causados en el envío del artículo.
+
+RETRACTO
+
+En caso que ya no desees el producto recibido, puedes realizar la devolución en un periodo no mayor a 5 días a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU o China dependiendo el origen del proveedor
+
+NUESTROS TIEMPOS DE ENVIO VAN DESDE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES
+
+Mira todo lo que traemos para ti:    https://eshops.mercadolibre.com.co/VIVO+SHOP
+
+
+Vivo Shop
