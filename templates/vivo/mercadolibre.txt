@@ -16,6 +16,8 @@ TÍTULO
 DESCRIPCIÓN
 {{productdesc}}
 
+{{{atribute_name}}:{{atribute_val}}}
+
 INFORMACIÓN IMPORTANTE
 
 Luego de comprar cuentas con 24 horas para confirmar: talla, color y/o referencia, ya que esto puede generar cambios en el precio del producto, si no confirmas Vivo Shop enviará la referencia de la publicación.
