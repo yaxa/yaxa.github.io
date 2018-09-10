@@ -1,19 +1,13 @@
-{{template_type}}
+﻿{{template_type}}
 
-IMPORTANTE LEER ANTES DE REALIZAR LA COMPRA
+Somos MercadoLider Platinum, visita nuestra Tienda Oficial accediendo a:
+{{https://tienda.mercadolibre.com.co/ebay}}
 
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+• TIEMPOS DE ENTREGA DE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES •
 
-* Productos importados; stock y tiempos de entrega sujetos a cambios.
-* Envío Internacional.
-* Somos tú intermediario con los proveedores internacionales.
+• Producto Importado •
 
-Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
-{{url_store}}
+• Envío Totalmente Gratis •
 
 ----------------------------------------------------------------------------------------
 • TÍTULO •
@@ -28,30 +22,11 @@ Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
 {{{atribute_name}}:{{atribute_val}}}
 ----------------------------------------------------------------------------------------
 
->>> INDICACIONES GENERALES <<<
+• TIEMPOS DE ENTREGA DE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES •
 
-Al realizar la compra cuentas con 24 horas para confirmar: talla, color y/o referencia, ya que esto genera cambios en el precio del producto, de lo contrario, Yaxa enviará la referencia de la publicación.
+Ahora puedes comprar productos de Ebay y te llegaran directamente a tu casa u oficina
+totalmente gratis
 
-GARANTÍA
-
-Nuestros proveedores nos ofrecen una garantía de 30 días que cubre daños por defectos del material o errores en la fabricación. NO cubre mala manipulación por parte del usuario.
-
-* Los repuestos electrónicos para vehículos, ropa y/o prendas íntimas no cuentan con Garantía del proveedor.
-
-* La empresa transportadora es la encargada de cubrir el valor por daños causados en el envío del artículo.
-
-RETRACTO
-
-En caso que ya no desees el producto recibido, puedes realizar la devolución en un periodo no mayor a 5 días a partir de su entrega. Para ello, deberás pagar el costo del retorno desde tu casa hacia EE.UU o China dependiendo el origen del proveedor (éste costo de envió varía de acuerdo al tamaño y peso del producto).
-
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-•••••••••••••••••• TIEMPOS DE ENVÍO ••••••••••••••••••••
-•••••••••••••••••••••• DE {{days}} DÍAS •••••••••••••••••••••
-••••••••• HÁBILES A CIUDADES PRINCIPALES •••••••••
-••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-
-
-Encuentra todo lo que buscas en nuestra Tienda Oficial accediendo a:
-{{url_store}}
+Vivirás la mejor experiencia de compra con Ebay Tienda Oficial
 
 ---------------------------------------------------------------------------------------
