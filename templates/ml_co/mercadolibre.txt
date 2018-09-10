@@ -1,7 +1,7 @@
-﻿{{template_type}}
+﻿Yaxa Tienda Oficial
 
 Somos MercadoLider Platinum, visita nuestra Tienda Oficial accediendo a:
-{{https://tienda.mercadolibre.com.co/yaxa}}
+https://tienda.mercadolibre.com.co/yaxa
 
 • TIEMPOS DE ENTREGA DE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES •
 

@@ -1,7 +1,7 @@
-﻿{{template_type}}
+﻿Ebay Tienda Oficial
 
 Somos MercadoLider Platinum, visita nuestra Tienda Oficial accediendo a:
-{{https://tienda.mercadolibre.com.co/ebay}}
+https://tienda.mercadolibre.com.co/ebay
 
 • TIEMPOS DE ENTREGA DE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES •
 
@@ -24,8 +24,7 @@ Somos MercadoLider Platinum, visita nuestra Tienda Oficial accediendo a:
 
 • TIEMPOS DE ENTREGA DE {{days}} DÍAS HÁBILES A CIUDADES PRINCIPALES •
 
-Ahora puedes comprar productos de Ebay y te llegaran directamente a tu casa u oficina
-totalmente gratis
+Ahora puedes comprar productos de Ebay y te llegaran directamente a tu casa u oficina totalmente gratis
 
 Vivirás la mejor experiencia de compra con Ebay Tienda Oficial
 
